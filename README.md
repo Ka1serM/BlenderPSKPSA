@@ -1,7 +1,3 @@
-I'am no longer maintainig this project. And will archive it later.  
-So please look there https://github.com/Befzz/blender3d_import_psk_psa/issues/88  
--------
-
 Blender3D Import psk psa addon
 ========================
 <ul>
@@ -20,21 +16,10 @@ https://github.com/gildor2/UModel</li>
 <li>Panel UI updated: All actions to NLA track, Mesh / skeleton or both import, Scale down, Vertex color</li>
 </ul>
 
-<h3>Download</h3>  
-
-* <a href ="https://github.com/Befzz/blender3d_import_psk_psa/releases">**Releases**</a> -> **_280.py** file.
-
-  Blender 2.7x ?  
-* <a href ="https://github.com/Befzz/blender3d_import_psk_psa/releases">**Releases**</a> -> *Source code (zip)* -> (use _270.py version)
-
-
 <h3>Install</h3> 
 
 * Edit -> Preferences... -> Add-ons -> Install...  
   
-  Blender 2.7x ?  
-* File -> User preferences -> Add-ons -> Install Add-on from File...  
-
 <h3>Install manually</h3> 
 
   Blender will look for .py add-ons there:  
@@ -43,14 +28,6 @@ https://github.com/gildor2/UModel</li>
     %APPDATA%\Blender Foundation\Blender\2.79\scripts\addons\  
     %APPDATA%\Blender Foundation\Blender\ _version_ \scripts\addons\
     
-
-Blender 2.7x ?  
-
-  Disable original add-on:  
-`Import Unreal Skeleton Mesh (.psk)/Animation Set (.psa)`  
-
-  Enable this one:  
-`Import Unreal Skeleton Mesh (.psk)/Animation Set (.psa) (280)`
 <h3>Usage</h3>  
 <table><tbody>
 <tr><th> Panel in 3DView (270) </th><th> Panel in 3DView (280) </th></tr>
